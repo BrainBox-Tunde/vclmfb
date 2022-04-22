@@ -6,8 +6,13 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #FFFFFF;
 }
+.top_bar{
+  margin: 5px;
+  padding:7px;
+}
 .top_nav{
   display: inline;
+
 }
 .top_nav ul{
 
@@ -15,6 +20,7 @@ body{
 .top_nav ul li{
   list-style-type: none;
   display: inline;
+  margin-left: 4em;
   
 }
 .top_nav ul li a{
